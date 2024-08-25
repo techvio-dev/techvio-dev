@@ -1,16 +1,19 @@
-<div align=center>
- 
-<h1>Hello, I'm TechVio!</h1>
+<div align="center">
 
-<p>A 17 years old student who loves programming</p>
+# Hello, I'm TechVio!
+
+A **17-year-old** student who loves **programming** and breaking into **computers**.
 
 </div>
 
-**Facts about me**
-- Casual competitive programmer (getting ready for IOI 2025)
-- Working on a couple of interesting projects related to computer vision and deep learning
-- A Web Application Developer working at SGP Foods
-- Studying cyber security in my free time
-- Freelancer developing virtualization solutions for individuals and companies (especially on QEMU)
-- Super motivated at night for no reason
-- Having severe coffee addiction
+---
+
+## Facts About Me
+
+- 💻 Casual competitive programmer (getting ready for **IOI 2025**)
+- 🔬 Working on projects related to **computer vision** and **deep learning**
+- 🌐 Web Application Developer at **SGP Foods**
+- 🛡️ A pentester at night
+- 💼 Freelancer developing virtualization solutions (especially on **QEMU**)
+- 🚀 Super motivated at night for no reason
+- ☕ Having a severe coffee addiction
