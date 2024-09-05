@@ -3,7 +3,7 @@
   <img src="https://media.giphy.com/media/hu9xj9UtxpoY3oytsh/giphy.gif" width="100"/>
 </div>
 
-# Hello, I'm ```TechVio```!
+# Hi, I'm ```TechVio```!
 
 A 17-year-old student who **```loves```** programming and breaking into computers.
 
