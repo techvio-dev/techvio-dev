@@ -14,13 +14,13 @@ A 17-year-old student who **```loves```** programming and breaking into computer
 
  ## ```whoami```
 
-- 💻 Casual competitive programmer (getting ready for *IOI 2025*)
-- 🔬 Working on projects related to *computer vision* and *deep learning*
-- 🌐 Web Application Developer at *SGP Foods*
-- 🛡️ A pentester at night
-- 💼 Freelancer developing virtualization solutions (especially on *QEMU*)
-- 🚀 Super motivated at night for no reason
-- ☕ Having a severe coffee addiction
+- 💻 Casual competitive programmer (getting ready for *IOI 2025*).
+- 🔬 Working on projects related to *computer vision* and *deep learning*.
+- 🌐 Web Application Developer at *SGP Foods*.
+- 🛡️ A pentester at night.
+- 💼 Freelancer developing virtualization solutions (especially on *QEMU*).
+- 🚀 Super motivated at night for no reason.
+- ☕ Having a severe coffee addiction.
 <img src="pixel_robot.gif" align="center" width="300">
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/abdelmonaimbounite/">
