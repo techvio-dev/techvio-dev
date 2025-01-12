@@ -16,7 +16,7 @@ A 17-year-old student who **```loves```** programming and breaking into computer
 
 - 💻 Casual competitive programmer (getting ready for *IOI 2025*).
 - 🔬 Working on projects related to *computer vision* and *deep learning*.
-- 🌐 Web Application Developer at *SGP Foods*.
+- 🌐 Web developer and data team member at *<a href="https://github.com/atlasia-ma/">AtlasIA</a>*.
 - 🛡️ A pentester at night.
 - 💼 Freelancer developing virtualization solutions (especially on *QEMU*).
 - 🚀 Super motivated at night for no reason.
