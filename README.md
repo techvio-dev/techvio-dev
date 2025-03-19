@@ -14,12 +14,12 @@ A 17-year-old student who **```loves```** programming and breaking into computer
 
  ## ```whoami```
 
-- 💻 Casual competitive programmer (getting ready for *IOI 2025*).
+- 💻 A competitive programmer (getting ready for *IOI 2025*).
 - 🔬 Working on projects related to *computer vision* and *deep learning*.
-- 🌐 Web developer and data team member at *<a href="https://github.com/atlasia-ma/">AtlasIA</a>*.
-- 🛡️ A pentester at night.
-- 💼 Freelancer developing virtualization solutions (especially on *QEMU*).
-- 🚀 Super motivated at night for no reason.
+- 🌐 Data and development team member at *<a href="https://huggingface.co/atlasia">AtlasIA</a>*.
+- 🛡️ Casual pentester.
+- 💼 Freelancer developing virtualization solutions.
+- 🦉 Super motivated night owl.
 - ☕ Having a severe coffee addiction.
 <img src="pixel_robot.gif" align="center" width="300">
 <div id="badges" align="center">
