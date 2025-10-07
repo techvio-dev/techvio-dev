@@ -5,7 +5,7 @@
 
 # Hi, I'm ```TechVio```!
 
-A 17-year-old student who **```loves```** programming and breaking into computers.
+An 18-year-old student who **```loves```** programming and breaking into computers.
 
 </div>
 
@@ -14,8 +14,8 @@ A 17-year-old student who **```loves```** programming and breaking into computer
 
  ## ```whoami```
 
-- 💻 A competitive programmer (getting ready for *IOI 2025*).
-- 🔬 Working on projects related to *computer vision* and *deep learning*.
+- 💻 A competitive programmer.
+- 🔬 Working on projects related to *deep learning* and *NLP*.
 - 🌐 Data and development team member at *<a href="https://huggingface.co/atlasia">AtlasIA</a>*.
 - 🛡️ Casual pentester.
 - 💼 Freelancer developing virtualization solutions.
