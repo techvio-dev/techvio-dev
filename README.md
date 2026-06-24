@@ -17,7 +17,7 @@ An 18-year-old student who **```loves```** programming and breaking into compute
 - 💻 A competitive programmer.
 - 🔬 Working on projects related to *deep learning* and *NLP*.
 - 🌐 Data and development team member at *<a href="https://huggingface.co/atlasia">AtlasIA</a>*.
-- 🛡️ Casual penting hobbyist.
+- 🛡️ Casual pentesting hobbyist.
 - 💼 Freelancer developing virtualization solutions.
 - 🦉 Super motivated night owl.
 - ☕ Having a severe coffee addiction.
